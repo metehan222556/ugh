@@ -1,0 +1,20 @@
+{
+  "name": "beyhudeiaa",
+  "version": "0.0.1",
+  "description": "",
+  "main": "beyhude.js",
+  "scripts": {
+    "test": "node beyhude.js"
+  },
+  "author": "ghost",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discordjs-ytdl-advanced": "^0.1.6",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "opusscript": "^0.0.8",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.11.0"
+  }
+}
